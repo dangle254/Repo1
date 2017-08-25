@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 0284-FAD1
+
+ Directory of D:\MyProject
+
+08/25/2017  10:44 AM    <DIR>          .
+08/25/2017  10:44 AM    <DIR>          ..
+08/25/2017  10:44 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  243,827,367,936 bytes free
